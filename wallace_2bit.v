@@ -7,7 +7,7 @@
 // Design Name: 
 // Module Name: wallace_2bit
 // Project Name: 
-// Target Devices: 
+// Target Devices: Artix 7 Basys-3 a35T based
 // Tool Versions: 
 // Description: 
 // 
